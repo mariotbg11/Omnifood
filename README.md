@@ -1,5 +1,5 @@
 # Omnifood
-The Ominfood website build as a [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) final project from Udemy by Jonas Schmedtmann. Omnifood is a fictional brand that focus on consumer well-being through a healthy diet based on AI with monthly subscription.
+The Ominfood website build as a [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) final course project from Udemy by Jonas Schmedtmann. Omnifood is a fictional brand that focus on consumer well-being through a healthy diet based on AI with monthly subscription.
 Build with : 
 - HTML
 - CSS
